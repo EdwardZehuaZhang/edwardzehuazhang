@@ -1,11 +1,11 @@
 <!-- Responsive Stats Panels (all images 150px tall) -->
 <div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=EdwardZehuaZhang&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" 
-       style="height:140px; width:auto;" alt="stats graph" />
+       style="height:130px; width:auto;" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EdwardZehuaZhang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" 
-       style="height:140px; width:auto;" alt="languages graph" />
+       style="height:130px; width:auto;" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=EdwardZehuaZhang&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" 
-       style="height:140px; width:auto;" alt="streak graph" />
+       style="height:130px; width:auto;" alt="streak graph" />
 </div>
 
 ###
