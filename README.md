@@ -21,7 +21,7 @@
 ###
 
 <!-- Responsive Icons (all icons set to 150px tall) -->
-<div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 12px;">
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 13px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="height:40px; width:auto;" alt="figma logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:40px; width:auto;" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:40px; width:auto;" alt="css3 logo" />
